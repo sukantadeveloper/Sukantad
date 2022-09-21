@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sukantad
+- 👋 Hi, I’m Sukanta Ghosh
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on new project
