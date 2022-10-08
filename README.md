@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukanta Ghosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img  margin-left="2000px" width="500px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="50%" />
+<h3 align="center">A passionate developer  </h3>
+<img  margin-left="2000px" width="5000px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="50%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukantad&label=Profile%20views&color=0e75b6&style=flat" alt="sukantad" /> </p>
 
