@@ -35,7 +35,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+<!--   <br/>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukantad&show_icons=true&locale=en&theme=highcontrast" alt="sukantad" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&&theme=highcontrast" alt="sukantad" /></p>
@@ -43,8 +43,22 @@
 <p align="center"><img alt="Sukanta Ghosh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukantad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 <br/>
 <br/>
-<img alt="sukantad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukantad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="sukantad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukantad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
 <br/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=sukantad&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sukantad&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukantad&theme=vue" alt="summarycard"/> </p>
+<hr />
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/sukantad/count.svg" />
+</h3>
 <br/>
 
