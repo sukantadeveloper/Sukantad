@@ -13,29 +13,25 @@
 
   ## 🚀 Languages and Tools:
 
-<!-- <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-  
-</p> -->
+
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-<br/>
-<p align="center"><img alt="Saikat Kundu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusaikat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+
        
 </p>
- 
+ <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukanta-ghosh-b0b696231/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="ghoshsu4@gmail.com" href="mailto:ghoshsu4@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+<!--   <a href="https://wa.me/7718583919" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
+  <a href="https://sukantadeveloper.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+    <a href="https://twitter.com/sukantad" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
+</p>
+
 
 ## 📊 My Github Stats
 
@@ -43,9 +39,8 @@
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukantad&show_icons=true&locale=en&theme=highcontrast" alt="sukantad" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&&theme=highcontrast" alt="sukantad" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<p align="center"><img alt="Sukanta Ghosh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukantad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 <br/>
 <br/>
 <img alt="sukantad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukantad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
