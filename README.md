@@ -1,46 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sukanta Ghosh</h1>
-<h3 align="center">A passionate developer  </h3>
-<img  margin-left="2000px" width="5000px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="50%" />
+<h1 align="center">Hi 👋, I'm Sukanta Ghosh  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" width="50px"</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukantad&label=Profile%20views&color=0e75b6&style=flat" alt="sukantad" /> </p>
+##  🙋‍♂️ Who Am I?
+<h3 >I'm a passionate Full Stack Web Developer from India.</h3>
+<p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukantad" alt="sukantad" /></a> </p>
+ - 🌱 I’m currently learning *MERN Stack*
+- 👯 I’m looking to collaborate on *OpenSource Projects*
+- 🌱 I’m currently learning various new technologies.
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://sukantadeveloper.netlify.app/)**
+<!--  - 📫 How to reach me *kundusaikat32@gmail.com* -->
+- 💬 Ask me about anything, I am happy to help;
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+  ## 🚀 Languages and Tools:
 
-- 👨‍💻 All of my projects are available at [https://sukantadeveloper.netlify.app/](https://sukantadeveloper.netlify.app/)
+<!-- <p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  
+</p> -->
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
 
-- 📫 How to reach me **ghoshsu4@gmail.com**
-
-- 📄 Know about my experiences [https://rxresu.me/ghoshsu4/sukanta-ghosh](https://rxresu.me/ghoshsu4/sukanta-ghosh)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sukanta-ghosh-b0b696231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukanta-ghosh-b0b696231" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/sukanta ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sukanta ghosh" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/ghoshsu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghoshsu4" height="30" width="40" /></a>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+<br/>
+<p align="center"><img alt="Saikat Kundu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusaikat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
 </p>
+ 
+
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukantad&show_icons=true&locale=en&theme=highcontrast" alt="sukantad" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&&theme=highcontrast" alt="sukantad" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
-  </a>
-</p>
+<br/>
+<br/>
+<img alt="sukantad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukantad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
+<br/>
+<br/>
 
-
-<!-- <img src="" alt="" /> -->
-<h2 align="center"><i>Tools | Use</i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukantad&show_icons=true&locale=en&layout=compact" alt="sukantad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukantad&show_icons=true&locale=en" alt="sukantad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&" alt="sukantad" /></p>
