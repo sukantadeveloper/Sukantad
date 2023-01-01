@@ -8,14 +8,15 @@
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🌱 I’m currently learning various new technologies.
  - 👨‍💻 All of my projects are available at **[My Portfolio](https://sukantadeveloper.netlify.app/)**
-<!--  - 📫 How to reach me *kundusaikat32@gmail.com* -->
+<!--  - 📫 How to reach me *ghoshsu4@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
   ## 🚀 Languages and Tools:
 
 
  <p align="center" >
-  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+ <!-- <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png"> -->
+
   </p>
 
 
