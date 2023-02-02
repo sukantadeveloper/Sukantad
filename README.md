@@ -46,9 +46,7 @@
 <br/>
 <img alt="sukantad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sukantad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
-<br/>
- <img src="https://activity-graph.herokuapp.com/graph?username=sukantad&theme=react-dark" alt="activitygraph&theme=dark" /> 
-<br />
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sukantad&theme=dark" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukantad&theme=vue" alt="summarycard"/> </p>
