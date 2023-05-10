@@ -4,8 +4,8 @@
 <h3 >I'm a passionate Full Stack Web Developer from India.</h3>
 <p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
- - 🌱 I’m currently learning *MERN Stack*
-- 👯 I’m looking to collaborate on *OpenSource Projects*
+ - 🌱 I’m a  *MERN Stack* developer
+- 👯 I’m looking for a job
 - 🌱 I’m currently learning various new technologies.
  - 👨‍💻 All of my projects are available at **[My Portfolio](https://sukantadeveloper.in)**
 <!--  - 📫 How to reach me *ghoshsu4@gmail.com* -->
